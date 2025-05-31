@@ -31,24 +31,6 @@ A secure, simple password manager built using **Node.js**, **Express**, and **Mo
 
 ---
 
-## 📁 Project Structure
-
-PassOP-Mongo/
-├── models/
-│ └── Password.js # Mongoose model for credentials
-├── public/
-│ └── css/ # CSS styling
-├── routes/
-│ └── index.js # App routes
-├── views/
-│ ├── index.ejs # Main dashboard
-│ └── addPassword.ejs # Form for adding credentials
-├── .env # Environment variables (Mongo URI)
-├── app.js # Main server file
-├── package.json # NPM dependencies
-
----
-
 ## 📦 Installation
 
 ### Prerequisites
